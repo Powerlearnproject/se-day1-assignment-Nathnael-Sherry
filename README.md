@@ -1,10 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18388623&assignment_repo_type=AssignmentRepo)
 # SE_Day1
-***Software Engineering Day1 Assignment
+### Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
-###Explain what software engineering is and discuss its importance in the technology industry.
+### Explain what software engineering is and discuss its importance in the technology industry.
 
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 - reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
@@ -12,7 +12,7 @@ software engineering is a branch of computer science used for developing, testin
 - scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
 - security - implement protection practice like authentication, authorization and encryption to secure users information.
 
-###Identify and describe at least three key milestones in the evolution of software engineering.
+### Identify and describe at least three key milestones in the evolution of software engineering.
 
 - Mastering Complexity ensures that software systems remain manageable and scalable as they grow.
 
@@ -21,7 +21,7 @@ software engineering is a branch of computer science used for developing, testin
 - Mastering Machine leverages technological advancements to optimize performance and capabilities.
 
 
-###List and briefly explain the phases of the Software Development Life Cycle.
+### List and briefly explain the phases of the Software Development Life Cycle.
 
 - planning - identify the software requirement or purpose and scope.
 - requirement analysis - identify the final user specification. 
@@ -30,7 +30,7 @@ software engineering is a branch of computer science used for developing, testin
 - testing - examine the software for any bugs and glitches
 
 
-###Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+### Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
@@ -46,7 +46,7 @@ agile methodology - Iterative and incremental, with multiple cycles (sprints).
 
 
 
-###Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
@@ -65,7 +65,7 @@ Project Manager - assembles and lead the software development team.
 
 
 
-###Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+### Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
@@ -85,7 +85,7 @@ Error Recovery: Allows reverting to previous versions if new changes introduce e
 
 
 
-###What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
@@ -102,7 +102,7 @@ Solution: Use scalable architecture, Emphasize reliability.
 
 
 
-###Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
@@ -114,10 +114,10 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 
-###Define prompt engineering and discuss its importance in interacting with AI models.
+### Define prompt engineering and discuss its importance in interacting with AI models.
 
 -  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
@@ -127,12 +127,12 @@ Importance:
 
 
 
-###Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 ![download](https://github.com/user-attachments/assets/582ce20c-1f6f-4d41-a4d9-822b3e02cb37)
 
 
-Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
-Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
-Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+- Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
+- Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
+- Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
 
